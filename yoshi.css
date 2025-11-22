@@ -1,0 +1,12 @@
+div.outer{
+    margin-left:30px ;
+}
+div.filename{
+    width: 300px;
+    margin-top: 10px;
+    padding: 10px 0px;
+    text-align: left;
+}
+img.image{
+    width: 30%;
+}
